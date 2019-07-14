@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">About ALC</string>
+    <string name="profile">My Profile</string>
+    <string name="name">Daniel Ampah Bennin</string>
+    <string name="track">Android</string>
+    <string name="country">Ghana</string>
+    <string name="email">danyelamps.db@gmail.com</string>
+    <string name="phone">+233205852014</string>
+    <string name="slack">"@Daniel Bennin"</string>
+    <string name="notification_error_ssl_cert_invalid">SSL Error! Give Permission</string>
+</resources>
